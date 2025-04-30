@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Clone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Top Navbar -->
+    <nav class="navbar">
+        <div class="nav-wrapper">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Instagram_logo.svg" class="brand-img" alt="Instagram">
+            <input type="text" class="search-box" placeholder="Search">
+            <div class="nav-items">
+                <i class="icon" id="home">🏠</i>
+                <i class="icon" id="send">📩</i>
+                <i class="icon" id="add">➕</i>
+                <i class="icon" id="love">❤️</i>
+                <i class="icon" id="profile">👤</i>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Feed -->
+    <section class="main">
+        <div class="wrapper">
+            <div class="card">
+                <div class="card-header">
+                    <img src="https://randomuser.me/api/portraits/women/68.jpg" class="profile-pic">
+                    <p class="username">username_here</p>
+                </div>
+                <img src="https://picsum.photos/600/400" class="post-img" alt="post">
+                <div class="card-footer">
+                    <i class="icon">❤️</i>
+                    <i class="icon">💬</i>
+                    <i class="icon">📤</i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Popup Modal -->
+<div class="popup" id="timePopup">
+    <div class="popup-content">
+        <h2>Time Alert!</h2>
+        <p>You have spend 1 min on instagram </p>
+        <button id="closePopup">Okay</button>
+    </div>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
