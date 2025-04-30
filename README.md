@@ -11,6 +11,7 @@
 ## 📘 Introduction  
 In recent years, short-form video content has surged in popularity, particularly on platforms like Instagram Reels and YouTube Shorts. These platforms are specifically designed to keep users engaged using a combination of compelling design, algorithmic recommendations, and psychological triggers.  
 This project explores the reasons behind their addictive nature and how they shape user behavior.
+##VIDEO LINK -  
 
 ---
 
@@ -62,11 +63,6 @@ Short-form content utilizes both psychological strategies and smart algorithms t
 
 ---
 
-## ✅ Recommendations  
-
-- Promote awareness and digital wellness practices  
-- Integrate features to monitor and limit screen time  
-- Encourage diverse and moderated content  
-- Invest in further research on digital media's long-term effects  
+ 
 
 ---
