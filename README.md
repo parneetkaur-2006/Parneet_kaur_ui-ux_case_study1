@@ -13,7 +13,15 @@ In recent years, short-form video content has surged in popularity, particularly
 This project explores the reasons behind their addictive nature and how they shape user behavior.
 ##VIDEO LINK -  
 
----
+---Title- case study on rising addiction of short content platform 
+---Team leader- Dolly
+---Team members
+Parneet kaur
+Anjali
+Anushika
+Dolly
+## video link :
+
 
 ## 🎯 Objectives  
 - Analyze the structure and features of short-form content  
@@ -21,7 +29,9 @@ This project explores the reasons behind their addictive nature and how they sha
 - Examine the role of algorithms in sustaining engagement  
 - Evaluate the impact of short-form content on user behavior
 
----
+
+
+ 
 
 ## 🧪 Methodology  
 
